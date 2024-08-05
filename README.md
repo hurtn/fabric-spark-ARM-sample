@@ -1,0 +1,2 @@
+A notebook demonstrating the ability to run ARM deployments and interact with Azure resources using the [Microsoft Azure Resource Management Client Library](https://pypi.org/project/azure-mgmt-resource/) Python SDK. 
+The notebook shows simple examples of creating resource groups, creating a Fabric capacity and deleting the capacity using a Fabric Spark Notebook. This could be useful for running workloads using ephemeral capacities.  
